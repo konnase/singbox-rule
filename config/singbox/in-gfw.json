@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "ip_cidr": [
+        "192.168.0.0/16",
+      ],
+      "domain": [
+        "hdfans.org"
+      ],
+      "domain_suffix": [
+        ".cn"
+      ]
+    }
+  ]
+}
