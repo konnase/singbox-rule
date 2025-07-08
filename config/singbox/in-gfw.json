@@ -6,7 +6,8 @@
         "192.168.0.0/16"
       ],
       "domain_suffix": [
-        ".cn"
+        ".cn",
+        "sbirdo.me"
       ]
     }
   ]
